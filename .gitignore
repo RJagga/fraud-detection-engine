@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Dataset (too large for git)
+data/
+
+# Trained model artifacts
+ml-service/artifacts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
